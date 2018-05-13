@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">InventoryApk</string>
+    <string name="editor_activity_title">Edit</string>
+    <string name="name">Item name:</string>
+    <string name="price">Item price:</string>
+    <string name="price_label_hint">$</string>
+    <string name="quantity">Quantity:</string>
+    <string name="overview">Overview</string>
+    <string name="supplier_overview">Supplier info</string>
+    <string name="action_insert_dummy_data">Insert dummy data</string>
+    <string name="supplier">Supplier name:</string>
+    <string name="contact">Supplier phone number:</string>
+    <string name="location">Item Location</string>
+    <string name="action_delete_all_entries">Delete all data</string>
+    <string name="action_save">Save</string>
+    <string name="action_delete">Delete</string>
+    <string name="empty_view_subtitle_text">Get started by adding an item</string>
+    <string name="empty_view_title_text">Nothing here yet&#8230;</string>
+    <string name="location_supplier">Supplier</string>
+    <string name="location_stock">Stock</string>
+    <string name="location_store">Store</string>
+    <string name="editor_activity_title_new_item">New item</string>
+    <string name="editor_activity_title_edit_item">Edit item</string>
+    <string name="editor_insert_item_failed">Error with saving item</string>
+    <string name="editor_insert_item_successful">Item saved</string>
+    <string name="editor_delete_item_failed">Error with deleting item</string>
+    <string name="editor_delete_item_successful">Item deleted</string>
+    <string name="editor_update_item_failed">Error with updating item</string>
+    <string name="editor_update_item_successful">Item updated</string>
+    <string name="unsaved_changes_dialog_msg">Discard your changes and quit editing?</string>
+    <string name="discard">Discard</string>
+    <string name="keep_editing">Keep Editing</string>
+    <string name="delete_dialog_msg">Delete this item?</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="sale">Sale</string>
+    <string name="detail_activity_title">Item details</string>
+    <string name="add">Add</string>
+    <string name="validate_data">Please enter valid data.</string>
+    <string name="missing_data">Some field is empty!</string>
+
+</resources>
